@@ -1,6 +1,6 @@
 # Variance-Reduced Gradient Estimation via Noise Reuse in Online Evolution Strategies
 
-### The code repository contains the code and experiments for the paper.
+### The code repository contains the code and experiments for the paper:
 
 > [Variance-Reduced Gradient Estimation via Noise Reuse in Online Evolution Strategies](https://arxiv.org/abs/2304.12180)
 >
