@@ -1,3 +1,11 @@
+.vscode
+*.code-workspace
+.DS_Store
+runs/
+**/tmux_yamls/
+**/slurm_jobs/
+**/slurm_logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
